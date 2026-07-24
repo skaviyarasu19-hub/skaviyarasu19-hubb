@@ -254,7 +254,7 @@ If you like my work,
 
 <div align="center">
 
-# ✨ THANK YOU FOR VISITING ✨
+# ✨ HAPPY CODING ✨
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&text=SEE%20YOU%20AGAIN!&fontSize=45&animation=twinkling&fontColor=ffffff&color=0:ff00ff,20:8A2BE2,40:00E5FF,60:00FFB3,80:FFD700,100:FF1493"/>
 
